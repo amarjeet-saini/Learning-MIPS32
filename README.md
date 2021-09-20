@@ -1,4 +1,4 @@
-# Learn-MIPS32
+# Learning-MIPS
 This repo is a consist of assignments for beginners trying to learn MIPS-32.
 
 WARNING: During this excercise you will be learning along with me. Do not think that these examples are correct.
