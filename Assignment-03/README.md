@@ -7,7 +7,9 @@ eg: of .data section <br />
 value: .word 10, 20, 0
 ```
 ### Hint
+<details>
 Opcode:- lw, la, add, sw
+</details>
 
 ## Example Output
 
