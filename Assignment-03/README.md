@@ -6,9 +6,10 @@ eg: of .data section <br />
 .data # data section
 value: .word 10, 20, 0
 ```
-### Hint
 <details>
-Opcode:- lw, la, add, sw
+  <summary>Hint</summary>
+  
+  Opcode:- lw, la, add, sw
 </details>
 
 ## Example Output
