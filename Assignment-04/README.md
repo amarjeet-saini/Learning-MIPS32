@@ -8,5 +8,8 @@ Program to swap two memory words <br/>
 </details>
 
 ## Example Output
+Before swap:
+![myimage-alt-tag](https://github.com/amarjeet-saini/Learning-MIPS32/blob/main/Assignment-04/4a.png)
 
-![myimage-alt-tag](https://github.com/amarjeet-saini/Learning-MIPS32/blob/main/Assignment-02/2.png)
+After swap:
+![myimage-alt-tag](https://github.com/amarjeet-saini/Learning-MIPS32/blob/main/Assignment-04/4b.png)
