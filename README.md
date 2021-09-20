@@ -5,8 +5,9 @@ WARNING: During this excercise you will be learning along with me. Do not think 
 
 Try to complete each task without looking at the solution!
 
-Tools:
-QT simulator
+Tools:<br/>
+* QT simulator <br/>
+* Vim editor <br/>
 
 Installation Guide:<br />
 http://spimsimulator.sourceforge.net/<br />
