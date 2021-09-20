@@ -4,7 +4,7 @@ Program to swap two memory words <br/>
 <details>
   <summary>Hint</summary>
   
-  Opcode:- 
+  Opcode:- lw,sw,lui
 </details>
 
 ## Example Output
