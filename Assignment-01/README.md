@@ -2,4 +2,4 @@
 Print Hello World
 
 ## Example Output
-
+![myimage-alt-tag](url-to-image)
