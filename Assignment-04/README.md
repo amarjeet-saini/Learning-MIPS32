@@ -1,5 +1,5 @@
 ## Assignment 4
-Program adds 10 and 11  <br/>
+Program to swap two memory words <br/>
 
 <details>
   <summary>Hint</summary>
