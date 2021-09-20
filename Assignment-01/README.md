@@ -1,7 +1,5 @@
 ## Assignment 1
+Print Hello World
 
 ## Example Output
-```terminal_session
-tokyo:~/LearningC/ # ./assignment1                                        
-Hello, World!#
-```
+
