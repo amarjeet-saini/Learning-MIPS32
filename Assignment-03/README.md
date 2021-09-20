@@ -1,4 +1,4 @@
-## Assignment 2
+## Assignment 3
 Add two number <br/>
 load two values from memory in reg t1, t2 and store in memory <br />
 eg: of .data section <br />
